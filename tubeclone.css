@@ -364,7 +364,7 @@ height: calc(100vh - 116px);
 }
 
 .video-content:hover{
-transform: scale(1.05);
+transform: scale(1.2);
 z-index: 5;
 position: absolute;
 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
