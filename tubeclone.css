@@ -338,7 +338,7 @@ height: calc(100vh - 116px);
     color: #fff ;
 }
 
-.detail{
+.grid{
     margin-left: 12px;
 }
 
@@ -381,7 +381,7 @@ background-color: #202020;
 border-radius: 10px;
 }
 
-.video-content:hover .video-details{
+.video-content:hover .grid{
     background-color: #202020;
     padding: 10px;  
 }
